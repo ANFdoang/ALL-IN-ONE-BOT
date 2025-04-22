@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://herbertagraabhipraya12:herbertagraabhipraya12@cluster.6mpvl3p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster",
     "excessCommands": {
         "utility": true,
         "other": true,
